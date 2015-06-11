@@ -1,0 +1,1890 @@
+[*] Address : 77c5bd60
+[*] ThreadStart : thread_id - 0, esp - 24f620
+[*] ThreadContext::SetStackBaseAddress : 240000
+[*] SignatureFinder::Match - 76bf1547@C:\Windows\syswow64\msvcrt.dll
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 00000000
+[*] ProcessContext::SaveHandle(00000000)
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 000000C8
+[*] ProcessContext::SaveHandle(000000C8)
+[*] PostCreateFileW : 000000C8
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 00000000
+[*] ProcessContext::SaveHandle(00000000)
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 000000C8
+[*] ProcessContext::SaveHandle(000000C8)
+[*] PostCreateFileW : 000000C8
+[*] ProcessContext::SaveMappingHandle(000000CC)
+[*] PostCreateFileMapping : 000000CC
+[*] DefineTaintSource : thread_id - 0, addr - 4b00000, size - 0x244000, offset - 0x0
+[*] ThreadContext::DoTaintMemory : addr - 4b00000, size - 244000
+[*] PostZwMapViewOfSection : 01770D80, 0024E170, 0024E184
+[*] PreCreateFile : C:\Windows\system32\rsaenh.dll
+[*] PostCreateFileW : 00000000
+[*] PreCreateFile : C:\Windows\system32\rsaenh.dll
+[*] PostCreateFileW : 000000D4
+[*] PostCreateFileW : 000000D4
+[*] PreCreateFile : C:\Windows\Globalization\Sorting\sortdefault.nls
+[*] PostCreateFileW : 000000D8
+[*] TaintManager::IsTaintedMemory : addr - 4b00600, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bc8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00604, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bcc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00608, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bd0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0060c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bd4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00610, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bd8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00614, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bdc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00618, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622be0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0061c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622be4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00620, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622be8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00624, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00628, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bf0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0062c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bf4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00630, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bf8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00634, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622bfc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00638, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c00, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0063c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c04, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00640, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c08, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00644, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c0c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00648, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c10, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0064c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c14, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00650, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c18, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00654, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c1c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00658, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c20, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0065c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c24, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00660, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c28, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00664, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c2c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00668, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c30, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0066c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c34, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00670, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c38, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00674, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c3c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00678, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c40, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0067c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c44, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00680, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c48, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00684, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c4c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00688, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c50, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0068c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c54, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00690, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c58, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00694, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c5c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00698, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c60, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0069c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c64, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006a0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c68, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006a4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c6c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006a8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c70, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006ac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c74, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c78, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006b4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c7c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006b8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c80, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c84, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006c0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c88, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006cc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c94, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006d0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006d4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622c9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006d8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ca0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006dc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ca4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006e0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ca8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006e8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cb0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cb4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006f0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cb8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006f4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cbc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006f8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cc0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b006fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cc4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00700, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cc8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00704, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ccc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00708, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cd0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0070c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cd4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00710, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cd8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cdc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00718, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ce0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0071c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ce4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00720, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622ce8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00724, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00728, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cf0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0072c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cf4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00730, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cf8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622cfc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d00, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0073c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d04, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00740, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d08, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00744, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d0c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00748, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d10, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0074c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d14, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00750, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d18, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d1c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d20, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0075c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d24, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00760, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d28, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d2c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d30, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0076c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d34, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d38, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00774, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d3c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d40, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0077c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d44, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00780, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d48, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00784, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d4c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00788, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d50, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0078c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d54, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00790, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d58, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00794, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d5c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b00798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d60, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b0079c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d64, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007a0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d68, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007a4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d6c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007a8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d70, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007ac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d74, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d78, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007b4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d7c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007b8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d80, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d84, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007c0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d88, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007cc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d94, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007d0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007d4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622d9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007d8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622da0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007dc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622da4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007e0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622da8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622dac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007e8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622db0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622db4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007f0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622db8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007f4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622dbc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007f8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622dc0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4b007fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4622dc4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c0a, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 24e3e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e3e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c40, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e3fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e3fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e3e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e3e8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4621ed8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 4621ed0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e3fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e3e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c14, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d8c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622c8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7ac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7ac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c8a, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e764, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e63c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e63c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e61c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc458, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e688, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc45f, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5dc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e8, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 6bc47c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc478, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 24e5bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc48c, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6700c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc4fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc478, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 670078, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc478, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 670194, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc479, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc478, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc478, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc459, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc458, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc458, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c48, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc460, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c4c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc464, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c50, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc468, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c54, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc46c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c58, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 6bc470, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 4622c59, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 6bc471, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e948, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cb0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e94c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cb4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e940, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cb8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e944, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cb4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e950, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cb8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e954, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cc0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e938, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e760, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e760, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc460, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc462, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc464, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc466, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc468, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc46a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc46c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc46e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc470, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e7ac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc460, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc464, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b470c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc468, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4710, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc46c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc470, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 6b4718, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc471, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 6b4719, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e938, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e940, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e944, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e948, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e94c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e950, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e954, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc460, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc462, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc464, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc466, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc468, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 24e8fc, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6b4719, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 24e8fd, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c14, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e760, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d8c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e728, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e724, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e71c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4712, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4716, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c58, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e71c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7ac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7ac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d8a, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e764, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6d8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5f4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e688, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e63c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e63c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e63c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc4fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e658, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 670078, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e658, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc94, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e61c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e61c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc4f0, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e688, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc4f7, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e8, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 6bc514, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc510, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc524, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc518, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6700c4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc484, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc510, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 670078, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc510, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5e0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 670194, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc510, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 670194, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 670194, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc511, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc510, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc510, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc4f1, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc4f0, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bc4f0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d48, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc4f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d4c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc4fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc4fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d50, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc500, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d54, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc504, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d58, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc508, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d5c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc50c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622dac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e948, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e948, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622db0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e94c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e94c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622db4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e940, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e940, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622db8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e944, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e944, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622db4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e950, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e950, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622db8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e954, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e954, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d98, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e960, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d9c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e964, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622da0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e968, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622da4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e96c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622da8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e970, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e760, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e760, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc4f8, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc4fa, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc4fc, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc4fe, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc500, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc502, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc504, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc506, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc508, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc50a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc50c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bc50e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e7ac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc4f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc4fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b470c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc500, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4710, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc504, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc508, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4718, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bc50c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b471c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e940, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e944, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e948, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e94c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e950, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e954, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e960, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eab8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e964, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eabc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e968, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eac0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e96c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eac4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e970, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eac8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8fc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b471c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e900, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c14, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e760, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e71c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e744, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4712, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4716, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b471a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b471c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b471e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d5e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e744, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d90, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e744, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d08, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d08, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d0c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7ac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7ac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d08, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d0a, size - 1
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e764, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6d8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5f4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e688, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e63c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e63c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e63c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc94, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e658, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e658, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 670078, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e658, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bd904, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e61c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e61c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e6cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e688, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc8f, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 24e694, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e8, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 6bccbc, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bccb8, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bccdc, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bd904, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bccc4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bc480, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bd904, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bd904, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bccb8, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 670078, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bccb8, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e5e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6701a4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bccb9, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bccb8, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bccb8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc89, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bcc88, size - 1
+[*] TaintManager::IsTaintedMemory : addr - 6bcc88, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5dc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e5d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e5f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6d8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cc8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc94, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622ccc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc94, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cd0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cd4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcc9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cd8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcca0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cdc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcca4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622ce0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bcca8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622ce4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bccac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622ce8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bccb0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cec, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bccb4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d2c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e948, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e948, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d30, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e94c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e94c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d34, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e940, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e940, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d38, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e944, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e944, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d34, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e950, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e950, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d38, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e954, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e954, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d40, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e938, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e960, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e964, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e968, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e96c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e764, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e760, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e760, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc90, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc92, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc94, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc96, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc98, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc9a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc9c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcc9e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcca0, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcca2, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcca4, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcca6, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bcca8, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccaa, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccac, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccae, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccb0, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccb2, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccb4, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6bccb6, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e7ac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc90, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc94, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b470c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc98, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4710, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc9c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcca0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4718, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b471c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcca4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b471c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcca8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bccac, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bccb0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b4728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bccb4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6b472c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e938, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e940, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e944, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24ea9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e948, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e94c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e950, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaa8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e954, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24eaac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eab8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eabc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eac0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eac4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eac8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bcc90, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e8ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e900, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b471c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e900, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4720, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e904, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4724, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e908, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4728, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e90c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b472c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e910, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622c14, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e760, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e774, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d90, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e73c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e738, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e720, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e720, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d08, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 4622d88, size - 2
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e778, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e768, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e75c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e738, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e708, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e6e4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e728, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e74c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d08, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e734, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e728, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e724, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e71c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6b4708, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b470e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4710, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4712, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4714, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4716, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4718, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b471a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b471c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b471e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4720, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4722, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4724, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4726, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b4728, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b472a, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b472c, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 6b472e, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622cee, size - 2
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e71c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 4622d10, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaac, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea98, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea8c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24eaa8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e954, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e950, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e94c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e948, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e910, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e904, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e900, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8fc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8f0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e770, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7b0, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e908, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e934, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e758, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e754, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e750, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bd904, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e7bc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 670078, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e798, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e7bc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e740, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e71c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e714, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6be134, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8ec, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea90, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6be134, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e810, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e810, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e810, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6be134, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6be134, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6be134, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e8cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8cc, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bf164, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24ea9c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e724, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e8cc, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bf164, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 24e940, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 24e940, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bf25c, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c8, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6700c4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bf25c, size - 4
+[*] ThreadContext::DoTaintMemory : addr - 6bada4, size - 4
+[*] TaintManager::IsTaintedMemory : addr - 6bf25c, size - 4
+[*] ThreadFini : thread_id - 0
+[*] ProcessContext::Dump
+[**] Thread 0
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 6
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 7
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 8
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 9
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread a
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread b
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread c
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread d
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread e
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread f
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 10
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 11
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 12
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 13
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 14
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 15
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 16
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 17
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 18
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 19
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1a
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1b
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1c
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1d
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1e
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 1f
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 20
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 21
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 22
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 23
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 24
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 25
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 26
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 27
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 28
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 29
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2a
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2b
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2c
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2d
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2e
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 2f
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 30
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 31
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 32
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 33
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 34
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 35
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 36
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 37
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 38
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 39
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3a
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3b
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3c
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3d
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3e
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 3f
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 40
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 41
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 42
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 43
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 44
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 45
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 46
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 47
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 48
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 49
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4a
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4b
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4c
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4d
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4e
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 4f
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 50
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 51
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 52
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 53
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 54
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 55
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 56
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 57
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 58
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 59
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5a
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5b
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5c
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5d
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5e
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 5f
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 60
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 61
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 62
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------
+[**] Thread 63
+[*] Dump ----------------------------------------------
+[*] ---------------------------------------------------

@@ -1,0 +1,164 @@
+[*] Address : 77c5bd60
+[*] ThreadStart : thread_id - 0, esp - 18f96c
+[*] ThreadContext::SetStackBaseAddress : 180000
+[*] SignatureFinder::Match - 76bf1547@C:\Windows\syswow64\msvcrt.dll
+[*] SignatureFinder::Match - 72fe5f40@C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.4940_none_50916076bcb9a742\MSVCR90.dll
+[*] SignatureFinder::Match - 56163020@C:\Windows\WinSxS\x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.4148_none_51ca66a2bbe76806\ATL90.DLL
+[*] SignatureFinder::Match - 70f5562c@C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18201_none_ec80f00e8593ece5\COMCTL32.dll
+[*] PreCreateFile : C:\Windows\system32\OLEACCRC.DLL
+[*] SignatureFinder::Match - 18022b30@C:\Program Files (x86)\Hnc\Common80\HncBL80.dll
+[*] PreCreateFile : C:\Windows\Globalization\Sorting\sortdefault.nls
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\hgsmj.hft
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\hgsmj.hft
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\hgggt.hft
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\hgggt.hft
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\HFTInfo.dat
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\HFTInfo.dat
+[*] PreCreateFile : C:\ProgramData\HNC\User\Shared\Fonts\HFTInfo.ini
+[*] PreCreateFile : C:\ProgramData\HNC\User\Shared\Fonts\HFTInfo.ini
+[*] PreCreateFile : C:\Users\user\AppData\Roaming\HNC\User\Common\80\Fonts\Fontlist\Fontlist00.lst
+[*] PreCreateFile : C:\Users\user\AppData\Roaming\HNC\User\Common\80\Fonts\Fontlist\Fontlist00.lst
+[*] PreCreateFile : C:\Users\user\AppData\Roaming\HNC\User\Common\80\Fonts\Fontlist\Fontlist00.lst
+[*] PreCreateFile : C:\Users\user\AppData\Roaming\HNC\User\Common\80\Fonts\Fontlist\Fontlist00.lst
+[*] SignatureFinder::Match - 19099270@C:\Program Files (x86)\Hnc\Common80\HncBD80.dll
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Common80\Code\u300_949.dat
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Common80\Code\u300_949.dat
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\FontInfo.dat
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Shared80\Fonts\FontInfo.dat
+[*] PreCreateFile : C:\ProgramData\HNC\User\Shared\Fonts\FontInfo.ini
+[*] PreCreateFile : C:\ProgramData\HNC\User\Shared\Fonts\FontInfo.ini
+[*] ThreadStart : thread_id - 1, esp - 987fd14
+[*] ThreadContext::SetStackBaseAddress : 9870000
+[*] SignatureFinder::Match - 776cee29@C:\Windows\syswow64\ole32.dll
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\HCellLogo.hfp
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\HCellLogo.hfp
+[*] SignatureFinder::Match - b493e50@C:\Program Files (x86)\Hnc\Common80\HncImageIO.dll
+[*] PreCreateFile : C:\Windows\system32\rsaenh.dll
+[*] PreCreateFile : C:\Windows\system32\rsaenh.dll
+[*] PreCreateFile : C:\Users\user\AppData\Local\Temp\\~DFED4C7897FE9935DA.TMP
+[*] PreCreateFile : C:\Users\user\AppData\Local\Temp\\~DFED4C7897FE9935DA.TMP
+[*] SignatureFinder::Match - ce84620@C:\Program Files (x86)\Hnc\HCell80\HCellApp.dll
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Common80\TableStyles.xml
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Common80\TableStyles.xml
+[*] SignatureFinder::Match - 76df4e6a@C:\Windows\syswow64\RPCRT4.dll
+[*] ThreadStart : thread_id - 2, esp - 156bfd14
+[*] ThreadContext::SetStackBaseAddress : 156b0000
+[*] ThreadStart : thread_id - 3, esp - 15fbfd14
+[*] ThreadContext::SetStackBaseAddress : 15fb0000
+[*] ThreadStart : thread_id - 4, esp - 168ffd14
+[*] ThreadContext::SetStackBaseAddress : 168f0000
+[*] ThreadStart : thread_id - 5, esp - 16e9fd14
+[*] ThreadContext::SetStackBaseAddress : 16e90000
+[*] ThreadStart : thread_id - 6, esp - 174bfd14
+[*] ThreadContext::SetStackBaseAddress : 174b0000
+[*] SignatureFinder::Match - b7913d0@C:\Program Files (x86)\Hnc\Common80\HncOfficeAction.dll
+[*] PreCreateFile : C:\Users\user\AppData\Roaming\HNC\User\HCell\ShortKey80.htk
+[*] PreCreateFile : C:\Users\user\AppData\Roaming\HNC\User\HCell\ShortKey80.htk
+[*] SignatureFinder::Match - d61d630@C:\Program Files (x86)\Hnc\HCell80\HCellBook.dll
+[*] ThreadStart : thread_id - 7, esp - 19ccfd14
+[*] ThreadContext::SetStackBaseAddress : 19cc0000
+[*] ThreadStart : thread_id - 8, esp - 1b42fd14
+[*] ThreadContext::SetStackBaseAddress : 1b420000
+[*] SignatureFinder::Match - 45249b70@C:\Program Files (x86)\Hnc\Common80\HncAtlExt80.dll
+[*] PreCreateFile : C:\Windows\system32\tzres.dll
+[*] PreCreateFile : C:\Windows\system32\tzres.dll
+[*] PreCreateFile : C:\Users\user\AppData\Local\Microsoft\Windows\Caches\cversions.1.db
+[*] PreCreateFile : C:\Users\user\AppData\Local\Microsoft\Windows\Caches\cversions.1.db
+[*] PreCreateFile : C:\Users\user\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000000d.db
+[*] PreCreateFile : C:\Users\user\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000000d.db
+[*] PreCreateFile : C:\Users\user\Desktop\desktop.ini
+[*] PreCreateFile : C:\Users\user\Desktop\desktop.ini
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Common80\HimTrayIcon.exe
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\Common80\HimTrayIcon.exe
+[*] PreCreateFile : \\.\MountPointManager
+[*] ThreadStart : thread_id - 9, esp - 181efd14
+[*] ThreadContext::SetStackBaseAddress : 181e0000
+[*] PreCreateFile : \\.\MountPointManager
+[*] ThreadStart : thread_id - a, esp - 187cfd14
+[*] ThreadContext::SetStackBaseAddress : 187c0000
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] PreCreateFile : \\.\MountPointManager
+[*] ThreadFini : thread_id - 3
+[*] ThreadFini : thread_id - 5
+[*] ThreadStart : thread_id - b, esp - 16e5fd14
+[*] ThreadContext::SetStackBaseAddress : 16e50000
+[*] ThreadFini : thread_id - 6
+[*] ThreadFini : thread_id - 9
+[*] ThreadFini : thread_id - a
+[*] ThreadFini : thread_id - 8
+[*] ThreadFini : thread_id - 4
+[*] PreCreateFile : C:\Windows\Fonts\staticcache.dat
+[*] PreCreateFile : C:\Windows\Fonts\staticcache.dat
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\Buttons\Default\Default_TB_Large_KOR.bmp
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\Buttons\Default\Default_TB_Large_KOR.bmp
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\Buttons\Default\Default_TB_KOR.bmp
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\Buttons\Default\Default_TB_KOR.bmp
+[*] ThreadStart : thread_id - c, esp - 24d6fd14
+[*] ThreadContext::SetStackBaseAddress : 24d60000
+[*] ThreadStart : thread_id - d, esp - 2632fd14
+[*] ThreadContext::SetStackBaseAddress : 26320000
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 00000000
+[*] ProcessContext::SaveHandle(00000000)
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 000002F8
+[*] ProcessContext::SaveHandle(000002F8)
+[*] ProcessContext::SaveMappingHandle(000003F8)
+[*] PostCreateFileMapping : 000003F8
+[*] DefineTaintSource : thread_id - 0, addr - 26830000, size - 0x487000, offset - 0x0
+[*] PostZwMapViewOfSection : 01B747B0, 0018DF80, 0018DF94
+[*] ThreadFini : thread_id - d
+[*] PreCreateFile : C:\hacking\$tm9EBE.tmp
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 00000000
+[*] ProcessContext::SaveHandle(00000000)
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 000002EC
+[*] ProcessContext::SaveHandle(000002EC)
+[*] ProcessContext::SaveMappingHandle(000002F8)
+[*] PostCreateFileMapping : 000002F8
+[*] DefineTaintSource : thread_id - 0, addr - 26430000, size - 0x487000, offset - 0x0
+[*] PostZwMapViewOfSection : 01B74B20, 0018D98C, 0018D9A0
+[*] PreCreateFile : C:\hacking\$tmC820.tmp
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 00000000
+[*] ProcessContext::SaveHandle(00000000)
+[*] PreCreateFile : C:\hacking\sample.cell
+[*] PreCreateFile : matched - C:\hacking\sample.cell
+[*] PostCreateFileW : 000003F8
+[*] ProcessContext::SaveHandle(000003F8)
+[*] ProcessContext::SaveMappingHandle(000002EC)
+[*] PostCreateFileMapping : 000002EC
+[*] DefineTaintSource : thread_id - 0, addr - 25860000, size - 0x244000, offset - 0x0
+[*] PostZwMapViewOfSection : 01B74B30, 0018D9F8, 0018DA0C
+[*] ThreadFini : thread_id - c
+[*] PreCreateFile : C:\
+[*] PreCreateFile : C:\
+[*] PreCreateFile : C:\hacking
+[*] PreCreateFile : C:\hacking
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\Buttons\Default\Default_TB_Large_Inactive_KOR.bmp
+[*] PreCreateFile : C:\Program Files (x86)\Hnc\HCell80\Buttons\Default\Default_TB_Large_Inactive_KOR.bmp
+[*] ProcessContext::SaveMappingHandle(00000304)
+[*] PostCreateFileMapping : 00000304
+[*] DefineTaintSource : thread_id - 0, addr - 25c40000, size - 0x2a2000, offset - 0x0
+[*] PostZwMapViewOfSection : 01B74B50, 0018CDB0, 0018CDC8
+^C
